@@ -1,4 +1,4 @@
-package com.longluo.devlib.util;
+package com.longluo.devlib.utils;
 
 import java.util.List;
 

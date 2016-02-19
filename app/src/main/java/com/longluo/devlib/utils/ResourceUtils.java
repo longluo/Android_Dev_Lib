@@ -1,4 +1,4 @@
-package com.longluo.devlib.util;
+package com.longluo.devlib.utils;
 
 import android.content.Context;
 import android.content.res.Resources;
